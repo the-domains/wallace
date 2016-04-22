@@ -1,0 +1,28 @@
+name: wallace
+favicon: null
+layout_spectrum: 0.6327013799455017
+typography_spectrum: 0.5337131111882627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9052297603338957
+  lightness: 0.4015530929900706
+  saturation: 0.20083572901785374
+  rhythmicContrast: 0.911720106145367
+purpose: []
